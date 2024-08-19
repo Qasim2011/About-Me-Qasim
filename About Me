@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+>
+<html>
+    <head>
+      <title>Qasim</title>  
+<body>
+
+</head>
+<body style="background-color: aqua; text-align: center;"
+>
+<h1 style="background-color: blueviolet;">Qasim</h1>
+<h2 style="background-color: bisque;">Funny</h2>
+<marquee><h3 style="background-color: blue;">About me</h3> </marquee>
+<p style="background-color: azure;">
+<b>Hi I am Qasim and I have many things about me that make me, me</b>
+I am extremely caring perosn and can understand what other people are thinking about and how they are feeling.
+I love spending time with my friends and cracking jokes with them.
+I play many sports but one of my favorite is football.
+My favorite cuisines is Chinese an Indian.
+<u>Overall I love interacting with people in physical and mental ways </u>
+</p>
+
+<marquee><h3 style="background-color: blanchedalmond;"> My Passions</h3></marquee>
+<p style="background-color: red;">
+I have many passions, one of my favorites is <b>football.</b>
+I enjoy playing footabll as it is a team game.
+My favourite player is <i> Messi </i>. I like him because of his tremendous skills he performs on the pitch.
+I also enjoy acting as I get to be myself and get a breack from the real world.
+<b>Acting</b> is also something I find really enjoyable as you get to be a charector  and really get to experience being another perosn
+</p>
+
+<marquee><h3 style="background-color: green;">My Family</h3></marquee>
+<p style="background-color: yellow;">
+My family includes <b>my brother and my mother and father.</b>
+In my building my grandparents live on two floors above us. 
+We usually go to their house for dinner.
+We also have plenty of family gatherings where we like to scoilize and and eat togther.
+</p>
+</body>
+</html>
